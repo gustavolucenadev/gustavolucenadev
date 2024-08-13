@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Duarte Lucena 💻
 
-Desenvolvedor de Software há 1 ano e estudante de Sistemas de Informação na FIAP (3/8)<br/><br/>
+Desenvolvedor de Software e estudante de Sistemas de Informação na FIAP (4/8)<br/><br/>
 
 
 
