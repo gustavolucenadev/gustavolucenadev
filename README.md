@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Duarte Lucena 💻
 
-Desenvolvedor de Software e estudante de Sistemas de Informação na FIAP (4/8)<br/><br/>
+Desenvolvedor de Software com enfase em Back-End (Java - Spring) e estudante de Sistemas de Informação na FIAP (5/8)<br/><br/>
 
 
 
