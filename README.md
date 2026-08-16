@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Gustavo Duarte Lucena  
 
-Desenvolvedor de Software, atualmente cursando Sistemas de Informação na FIAP (5/8). Tenho experiência com Java e Spring Framework, além de conhecimentos em desenvolvimento web e serviços em nuvem. Sempre em busca de expandir meu repertório técnico e aprimorar minhas habilidades como desenvolvedor.  
+Desenvolvedor de Software, atualmente cursando Sistemas de Informação na FIAP (8/8). Tenho experiência com Java e Spring Framework, além de conhecimentos em desenvolvimento web e serviços em nuvem. Sempre em busca de expandir meu repertório técnico e aprimorar minhas habilidades como desenvolvedor.  
 
 ## 🛠️ Tecnologias e Ferramentas  
 - **Back-End:** Java (Spring Boot, JPA, Hibernate)  
