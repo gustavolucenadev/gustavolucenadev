@@ -1,19 +1,17 @@
-# 👋 Olá! Eu sou Gustavo Duarte Lucena  
+# Gustavo Duarte Lucena 👋
 
-Desenvolvedor de Software, atualmente cursando Sistemas de Informação na FIAP (8/8). Tenho experiência com Java e Spring Framework, além de conhecimentos em desenvolvimento web e serviços em nuvem. Sempre em busca de expandir meu repertório técnico e aprimorar minhas habilidades como desenvolvedor.  
+**Data Engineer/Analyst at Itaú • AWS Certified • Focused on Data Engineering**
 
-## 🛠️ Tecnologias e Ferramentas  
-- **Back-End:** Java (Spring Boot, JPA, Hibernate)  
-- **Front-End:** HTML5, CSS3, JavaScript, TypeScript, Angular  
-- **Banco de Dados:** SQL (MySQL, PostgreSQL)  
-- **APIs:** RESTful, integração com serviços externos  
-- **DevOps:** Git, GitHub, CI/CD  
-- **Cloud:** AWS *(Certificação Cloud Practitioner)*
+22 years old. Focused on connecting data, technology, and business. I work with Python, SQL, and AWS on financial data workflows and am building my path toward Data Engineering.
 
-## 📚 Atualmente Aprendendo  
-- Angular para desenvolvimento Front-End
-- Design Patterns e boas práticas para código escalável  
-- Arquitetura de microsserviços com Spring  
+## Technologies
+AWS • Python • SQL • Pandas • PySpark • Git • PostgreSQL • SSIS • Terraform • CI/CD • Docker
 
-## 📫 Conecte-se Comigo  
-[LinkedIn](https://www.linkedin.com/in/gustavoduarte-2341b2186//)
+## Cloud & Data
+AWS Glue • S3 • Athena • Lambda • QuickSight
+
+## Certification
+🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/619ca692-d14f-47c8-ae5c-08f233a4313d)
+
+## Connect With Me
+[LinkedIn](https://br.linkedin.com/in/gustavo-duarte-2341b2186) • [GitHub](https://github.com/gustavolucenadev) • [Credly](https://www.credly.com/earner/earned/badge/619ca692-d14f-47c8-ae5c-08f233a4313d)
